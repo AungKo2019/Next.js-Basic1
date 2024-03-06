@@ -13,5 +13,5 @@ const page = () => {
     </div>
   )
 }
-//aungko123
+//aungkos
 export default page
